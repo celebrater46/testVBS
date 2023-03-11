@@ -12,4 +12,3 @@ select case answer
     case else 
         wscript.echo "Type 'goo', 'choki' or 'par'"
 end select 
-
