@@ -1,1 +1,2 @@
-WScript.Echo "hello world"
+' use "cscript .\hoge.vbs"
+WScript.Echo "hello world!!!!"
