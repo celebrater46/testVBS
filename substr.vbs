@@ -1,6 +1,6 @@
 dim str : str = "ABCDEFG"
 
-wscript.echo left(str, 3)
+wscript.echo left(str, 3) ' ABC
 
 wscript.echo mid(str, 3) ' CDEFG
 wscript.echo mid(str, 3, 2) ' CD
